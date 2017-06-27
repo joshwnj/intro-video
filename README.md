@@ -30,3 +30,5 @@ NOTE: for local development you need to run this via a static server (`ecstatic`
 - recording stops when either:
   - the `stop` button is pressed, or
   - the countdown reaches zero
+
+Maintained by the [developers at x-team](https://www.x-team.com) | [developer blog](https://www.x-team.com/blog/)
